@@ -152,14 +152,14 @@ h1 {
 }
 
 #open {
-  top: 40px;
+  top: 0px;
   background: #555;
 }
 
 #lights {
   font-size: 18px;
   height: 46px;
-  top: 90px;
+  top: 50px;
   background: #555;
 }
 
