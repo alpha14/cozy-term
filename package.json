@@ -2,7 +2,7 @@
   "name": "term",
   "version": "1.0.0",
   "description": "The tty.js cozy app",
-  "main": "server.js",
+  "main": "server.coffee",
   "dependencies": {
     "coffee": "0.0.1",
     "tty.js": "^0.2.13"
