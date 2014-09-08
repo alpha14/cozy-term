@@ -1,0 +1,27 @@
+{
+  "name": "cozy-term",
+  "version": "1.0.0",
+  "description": "The tty.js cozy app",
+  "main": "server.js",
+  "dependencies": {
+    "coffee": "0.0.1",
+    "tty.js": "^0.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alpha14/cozy-term"
+  },
+  "author": "Alpha14",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alpha14/cozy-term/issues"
+  },
+  "homepage": "https://github.com/alpha14/cozy-term",
+  "cozy-permissions": {},
+  "cozy-displayName": "Cozy-term"
+}
