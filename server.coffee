@@ -1,9 +1,9 @@
 tty = require 'tty.js'
-port = process.env.PORT || 9666
 
 app = tty.createServer
   shell: 'bash',
-  port: port,
+  hostname: process.env.HOST || '127.0.0.1',
+  port: process.env.PORT || '9666',
   visualBell: false,
   popOnBell: false,
   cursorBlink: false,
