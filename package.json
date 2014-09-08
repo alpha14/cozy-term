@@ -1,5 +1,5 @@
 {
-  "name": "cozy-term",
+  "name": "term",
   "version": "1.0.0",
   "description": "The tty.js cozy app",
   "main": "server.js",
