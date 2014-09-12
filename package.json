@@ -23,5 +23,6 @@
   },
   "homepage": "https://github.com/alpha14/cozy-term",
   "cozy-permissions": {},
-  "cozy-displayName": "Term"
+  "cozy-displayName": "Term",
+  "icon-path": "client/public/icons/main_icon.png"
 }
