@@ -7,7 +7,7 @@ app = tty.createServer
   visualBell: false,
   popOnBell: false,
   cursorBlink: false,
-  static: "./client",
+  static: "./client/public",
   screenKeys: true
 
 app.listen()
