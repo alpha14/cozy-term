@@ -4,7 +4,7 @@
   "description": "The tty.js cozy app",
   "main": "server.coffee",
   "dependencies": {
-    "coffee": "0.0.1",
+    "coffee": "^1.0.0",
     "tty.js": "^0.2.13"
   },
   "devDependencies": {},
