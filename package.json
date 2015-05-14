@@ -1,15 +1,14 @@
 {
   "name": "term",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The tty.js cozy app",
   "main": "server.coffee",
   "dependencies": {
     "coffee": "^1.0.0",
-    "tty.js": "^0.2.13"
+    "tty.js": "^0.2.14-1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "coffee server.coffee"
   },
   "repository": {
