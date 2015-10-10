@@ -1,0 +1,11 @@
+{
+  "name": "term",
+  "version": "1.0.1",
+  "dependencies": {
+    "term.js": {
+      "version": "0.0.7",
+      "from": "term.js@>=0.0.5",
+      "resolved": "https://github.com/alpha14/term.js.git"
+    }
+  }
+}
