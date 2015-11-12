@@ -6,6 +6,9 @@
       "version": "0.0.7",
       "from": "term.js@>=0.0.5",
       "resolved": "git+https://github.com/alpha14/term.js.git"
+    },
+    "tty.js": {
+      "version": "^0.2.15"
     }
   }
 }
